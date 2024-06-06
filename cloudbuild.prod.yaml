@@ -28,5 +28,5 @@ substitutions:
     _FUNCTION_PROJECT : swift-atom-425515-m2
     _FUNCTION_NAME    : my-nodejs-app
     _FUNCTION_REGION  : northamerica-northeast2
-    _FUNCTION_RUNTIME : nodejs14
+    _FUNCTION_RUNTIME : nodejs20
     _ENTRY_POINT      : helloWorld
